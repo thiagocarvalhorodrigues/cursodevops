@@ -1,7 +1,7 @@
 Um aplicativo em react que trás as statisticas do covid.
 
 ## Installation
-- git clone https://github.com/sambreen27/covid19.git
+- git clone https://github.com/thiagocarvalhorodrigues/cursodevops
 - cd covid19
 - npm install
 - npm start
